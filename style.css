@@ -1,0 +1,30 @@
+body{
+    background-color: darkcyan;
+}
+.nav-bar ul{
+   margin: 0px;
+    font-size: 20px;
+    background-color: rgb(78, 78, 78);
+    list-style-type: none;
+    padding: 0%;
+    overflow: hidden;
+}
+.nav-bar a{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+}
+.nav-bar li:hover{
+    background-color: black;
+}
+
+
+.nav-bar li{
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 25px;
+    margin: 0px;
+}
