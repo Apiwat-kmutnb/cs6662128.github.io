@@ -1,0 +1,8 @@
+table,td
+{
+    border: 2px solid black;
+    
+}
+tr :hover,thead :hover{
+    background-color: blue;
+}
