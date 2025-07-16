@@ -42,17 +42,7 @@ nav ul li:hover {
 }
 
 
-nav ul li ul li ul{
-    position: absolute; 
-    font-size: medium;
-    display: none;
-    padding-left: 0px;
-    background-color: rgba(11, 109, 196, 0.432);
-}
 
-nav ul li ul li:hover ul{
-    display: block;
-}
 
 
 h3{
